@@ -5,7 +5,7 @@ return (
     <div>
       <div>
         <div className="header">
-          <h1>"YourName"</h1>
+          <h1>Kadam Krishn</h1>
           <h2>Engineering undergrad</h2>
         </div>
         <div className="body">
